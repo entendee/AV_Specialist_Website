@@ -1,6 +1,6 @@
-# Interior Customs Inc. - Home Theater & Audio Website
+# Home Theater & Audio Website
 
-A modern, responsive website for Interior Customs Inc., specializing in Samsung Frame TV mounting and home theater installations in the Greater Boston area.
+A modern, responsive website for Home Theater & Audio , specializing in Samsung Frame TV mounting and home theater installations
 
 ## Features
 
